@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>MAINTAINER-EMAIL@example.org</email>
+		<name>Will Fisher</name>
+	</maintainer>
+	<longdescription>
+		A terminal client for the Music Player Daemon drawn with notcurses:
+		a queue grouped by album, Directories and Search tabs, album art in
+		pixel graphics, a braille spectrum visualizer fed by MPD's fifo
+		output, rmpc's default keys, and mouse support.
+	</longdescription>
+	<upstream>
+		<remote-id type="github">gtlaserbeast/notmpc</remote-id>
+		<bugs-to>https://github.com/gtlaserbeast/notmpc/issues</bugs-to>
+	</upstream>
+</pkgmetadata>
